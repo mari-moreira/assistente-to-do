@@ -1,0 +1,20 @@
+{
+  "acoes": [
+    {
+      "nome": "adicionar",
+      "variantes": ["adicione", "criar", "nova"]
+    },
+    {
+      "nome": "remover",
+      "variantes": ["remova", "deletar", "excluir"]
+    },
+    {
+      "nome": "listar",
+      "variantes": ["liste", "mostrar", "ver"]
+    },
+    {
+      "nome": "concluir",
+      "variantes": ["conclua", "finalizar", "completar"]
+    }
+  ]
+}
